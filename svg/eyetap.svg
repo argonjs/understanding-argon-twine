@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600px" height="600px" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>eyetap</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="21" y="80" width="34" height="98"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="34" height="98" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="0" y="54" width="76" height="151"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="76" height="151" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="eyetap" stroke="#000000">
+            <g id="Group" transform="translate(157.000000, 138.000000)">
+                <use id="Rectangle-3" mask="url(#mask-2)" stroke-width="10" xlink:href="#path-1"></use>
+                <use id="Rectangle" mask="url(#mask-4)" stroke-width="10" xlink:href="#path-3"></use>
+                <path d="M22.5,81.5 L3.5,57.5" id="Line" stroke-width="5" stroke-linecap="square"></path>
+                <path d="M72.5,82.5 L52.5,57.5" id="Line" stroke-width="5" stroke-linecap="square" transform="translate(62.500000, 70.000000) scale(-1, 1) translate(-62.500000, -70.000000) "></path>
+                <path d="M22.5,200.5 L4.5,174.5" id="Line" stroke-width="5" stroke-linecap="square" transform="translate(13.500000, 187.500000) scale(1, -1) translate(-13.500000, -187.500000) "></path>
+                <path d="M72.5,200.5 L52.5,174.5" id="Line" stroke-width="5" stroke-linecap="square" transform="translate(62.500000, 187.500000) scale(-1, -1) translate(-62.500000, -187.500000) "></path>
+                <path d="M74.1454594,63.9163451 C74.1454594,63.9163451 134.092531,51.9903102 180.078286,64.7666106 C226.064041,77.5429111 253.123018,98.8307941 253.123018,98.8307941 C253.123018,98.8307941 261.559064,104.950557 265.74104,153.993504 C269.923016,203.036452 268.450912,216.080399 268.450912,216.080399 C268.450912,216.080399 234.700597,170.848959 174.068403,166.925686 C113.43621,163.002413 74.1454594,173.685255 74.1454594,173.685255" id="Path-12" stroke-width="5"></path>
+                <ellipse id="Oval" stroke-width="5" cx="131.5" cy="22" rx="21.5" ry="22"></ellipse>
+                <path d="M120.5,43.5 L120.5,58.5" id="Line" stroke-width="5" stroke-linecap="square"></path>
+                <path d="M142.5,43.5 L142.5,58.5" id="Line" stroke-width="5" stroke-linecap="square"></path>
+                <path d="M77.1851466,266.185147 C104.247099,266.185147 126.185147,244.247099 126.185147,217.185147 C126.185147,190.123194 104.247099,168.185147 77.1851466,168.185147 C50.1231938,168.185147 28.1851466,190.123194 28.1851466,217.185147" id="Oval-2" stroke-width="5" transform="translate(77.185147, 217.185147) rotate(107.000000) translate(-77.185147, -217.185147) "></path>
+                <path d="M62.6485217,264.242981 C62.6485217,264.242981 81.2867261,306.758555 142.493149,306.758555 C203.699572,306.758555 219.280192,271.013044 228.198145,255.238692 C237.116097,239.46434 247.889236,196.060129 247.889236,196.060129" id="Path-13" stroke-width="5"></path>
+            </g>
+        </g>
+    </g>
+</svg>

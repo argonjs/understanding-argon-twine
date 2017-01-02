@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600px" height="600px" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>damocles</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="damocles" stroke="#000000">
+            <g id="Group-2" transform="translate(57.000000, 179.000000)">
+                <path d="M259.5,18.5 L226.5,52.5" id="Line" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M259.5,53.5 L226.5,87.5" id="Line" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M259.5,88.5 L226.5,122.5" id="Line" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M259.5,123.5 L226.5,157.5" id="Line" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M259.5,160.5 L226.5,194.5" id="Line" stroke-width="4" stroke-linecap="square"></path>
+                <path d="M211.5,213.5 L274.626856,213.5" id="Line" stroke-width="5" stroke-linecap="square"></path>
+                <circle id="Oval" stroke-width="5" cx="187.5" cy="212.5" r="23.5"></circle>
+                <polyline id="Path" stroke-width="5" points="204.486552 195 204.486552 0.795312567 281.584141 0.795312567 281.584141 195"></polyline>
+                <polyline id="Path-2" stroke-width="5" points="204.895558 118 124.179433 118 124.179433 148.446249 51 148.446249 51 195.49314"></polyline>
+                <path d="M177.637619,233.828141 C177.637619,233.828141 -0.227061929,257.28905 0.170292535,220.315565 C0.567646999,183.342081 175.902744,191.945851 175.902744,191.945851" id="Path-3" stroke-width="5"></path>
+                <polyline id="Path-2" stroke-width="5" transform="translate(358.947779, 156.746570) scale(-1, 1) translate(-358.947779, -156.746570) " points="435.895558 118 355.179433 118 355.179433 148.446249 282 148.446249 282 195.49314"></polyline>
+                <g id="Group" transform="translate(380.500000, 214.500000) scale(-1, 1) translate(-380.500000, -214.500000) translate(275.000000, 188.000000)" stroke-width="5">
+                    <circle id="Oval" cx="187.5" cy="23.5" r="23.5"></circle>
+                    <path d="M178.393753,45.1927742 C178.393753,45.1927742 -0.396683819,68.2110233 0.000670644985,31.237539 C0.398025109,-5.73594528 175.733122,2.86782453 175.733122,2.86782453" id="Path-3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

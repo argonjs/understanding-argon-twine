@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600px" height="600px" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>videoplace</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="415" height="243"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="415" height="243" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="videoplace" stroke="#000000">
+            <g id="Group" transform="translate(93.000000, 179.000000)">
+                <circle id="Oval" stroke-width="5" cx="241" cy="98" r="70"></circle>
+                <path d="M91.5451329,240.722637 C91.5451329,240.722637 90.6211651,228.750663 93.2623309,215.073431 C95.9034966,201.3962 102.131253,184.923287 102.131253,184.923287 L76.8444152,202.553756 C76.8444152,202.553756 69.4344853,214.306223 64.4115514,206.791535 C59.3886176,199.276848 73.166163,195.417239 73.166163,195.417239 L109.705126,167.319007 C109.705126,167.319007 98.7402456,131.335252 120.91404,131.335252 C143.087834,131.335252 135.562885,157.065834 135.562885,157.065834 L176.096988,137.277547 C176.096988,137.277547 186.092323,117.785513 195.45319,130.064718 C204.814056,142.343923 181.121357,144.173124 181.121357,144.173124 L136.829126,168.310263 C136.829126,168.310263 146.670661,187.548796 149.88284,202.553756 C153.095018,217.558715 153.201211,235.934319 153.201211,238.977487" id="Path-4" stroke-width="5" fill="#FFFFFF"></path>
+                <use id="Rectangle" mask="url(#mask-2)" stroke-width="10" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

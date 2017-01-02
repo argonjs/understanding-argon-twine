@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600px" height="600px" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>virtualfixtures</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="82" y="32" width="137" height="74"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="137" height="74" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="virtualfixtures" stroke="#000000">
+            <g id="Group-2" transform="translate(152.000000, 131.000000)">
+                <g id="Group">
+                    <path d="M95.2070378,338.077992 C95.2070378,338.077992 0.99329159,304.651606 0.99329159,192.438591 C0.99329159,80.2255763 95.2070378,43.9009967 150.427198,43.9009967 C205.647359,43.9009967 299.432986,76.3505376 296.246473,188.82396 C293.05996,301.297381 204.805418,335.177563 204.805418,335.177563 C204.805418,335.177563 271.206326,281.645138 271.206326,188.987814 C271.206326,96.3304902 190.816932,66.8207764 150.427198,66.8207764 C110.037464,66.8207764 22.0474734,93.694614 22.0474734,191.78976 C22.0474734,289.884907 95.2070378,338.077992 95.2070378,338.077992 Z" id="Path-9" stroke-width="5"></path>
+                    <use id="Rectangle-2" mask="url(#mask-2)" stroke-width="10" fill="#FFFFFF" transform="translate(150.500000, 69.000000) rotate(270.000000) translate(-150.500000, -69.000000) " xlink:href="#path-1"></use>
+                    <circle id="Oval" stroke-width="5" cx="150.5" cy="93.5" r="6.5"></circle>
+                    <circle id="Oval" stroke-width="5" cx="150.5" cy="116.5" r="6.5"></circle>
+                    <path d="M45.3496855,119.419139 C45.3496855,119.419139 85.7548683,138.566787 151.458652,138.566787 C217.162436,138.566787 253.945978,121.089544 253.945978,121.089544" id="Path-10" stroke-width="5"></path>
+                    <path d="M27.1835714,228.720348 C27.1835714,228.720348 71.8532617,252.269263 148.323311,252.269263 C224.793361,252.269263 267.149492,228.720348 267.149492,228.720348" id="Path-11" stroke-width="5"></path>
+                </g>
+                <path d="M47.5,160.5 L63.0080624,144.991938" id="Line" stroke-width="5" stroke-linecap="square"></path>
+                <path d="M47.5,160.5 L63.0080624,144.991938" id="Line" stroke-width="5" stroke-linecap="square" transform="translate(55.500000, 152.500000) scale(-1, 1) translate(-55.500000, -152.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

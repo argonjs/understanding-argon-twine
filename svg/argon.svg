@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600px" height="600px" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>argon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="269" height="269"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="269" height="269" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="25" y="26" width="220" height="220"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="220" height="220" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="argon">
+            <g id="Group" transform="translate(166.000000, 166.000000)">
+                <text id="ARGON" font-family="Avenir-Heavy, Avenir" font-size="30" font-weight="600" letter-spacing="-0.688235283" fill="#000000">
+                    <tspan x="80" y="192">ARGON</tspan>
+                </text>
+                <text id="39.948" font-family="Avenir-Medium, Avenir" font-size="20" font-weight="400" letter-spacing="-0.458823532" fill="#000000">
+                    <tspan x="105" y="215">39.948</tspan>
+                </text>
+                <text id="AR" font-family="Avenir-Heavy, Avenir" font-size="100" font-weight="600" letter-spacing="-2.29411745" fill="#000000">
+                    <tspan x="69" y="164">AR</tspan>
+                </text>
+                <text id="18" font-family="Avenir-Heavy, Avenir" font-size="20" font-weight="600" letter-spacing="-0.458823502" fill="#000000">
+                    <tspan x="37" y="57">18</tspan>
+                </text>
+                <use id="Rectangle" stroke="#000000" mask="url(#mask-2)" stroke-width="10" xlink:href="#path-1"></use>
+                <use id="Rectangle-2" stroke="#000000" mask="url(#mask-4)" stroke-width="10" xlink:href="#path-3"></use>
+            </g>
+        </g>
+    </g>
+</svg>

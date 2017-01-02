@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600px" height="600px" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>hololens</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="hololens" stroke="#000000" stroke-width="5">
+            <g id="Group" transform="translate(92.000000, 227.000000)">
+                <path d="M364.5,41.5 L379.5,56.5" id="Line" stroke-linecap="square"></path>
+                <path d="M364.5,41.5 L379.5,56.5" id="Line" stroke-linecap="square" transform="translate(372.000000, 49.000000) scale(-1, 1) translate(-372.000000, -49.000000) "></path>
+                <path d="M18.4143863,0.611137179 C18.4143863,0.611137179 19.429575,108.606213 26.9844169,127.807282 C34.5392588,147.008352 39.9368247,152.491246 39.9368247,152.491246 C39.9368247,152.491246 92.7835237,157.374654 121.035963,157.374654 C149.288403,157.374654 184.828759,152.176187 184.828759,152.176187 L184.828759,140.024553 L219.25766,140.022366 L219.546463,152.896009 C219.546463,152.896009 272.548504,160.122665 300.63685,160.122665 C328.725197,160.122665 372.412582,152.896009 372.412582,152.896009 C372.412582,152.896009 381.062197,138.458521 383.688754,123.448122 C386.315312,108.437724 392.793669,0.611137179 392.793669,0.611137179 L18.4143863,0.611137179 Z" id="Path-17"></path>
+                <path d="M20.4987245,27.5 L391.501348,27.5" id="Line" stroke-linecap="square"></path>
+                <polyline id="Path-18" points="18.9180713 28.0167197 0.171767656 28.0167197 0.171767656 69.464133 20.4126359 69.464133"></polyline>
+                <polyline id="Path-19" points="4.24173297 69.5491553 4.24173297 88.9049513 22.1912622 88.9049513"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

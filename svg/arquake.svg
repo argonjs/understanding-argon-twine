@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600px" height="600px" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>arquake</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="422" height="254"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="422" height="254" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="125" y="36" width="33" height="55"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="33" height="55" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="108" y="50" width="33" height="41"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="33" height="41" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="335" y="45" width="23" height="44"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="23" height="44" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <rect id="path-9" x="353" y="71" width="54" height="18"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="54" height="18" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <rect id="path-11" x="312" y="13" width="28" height="78"></rect>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="28" height="78" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="arquake" stroke="#000000">
+            <g id="Group-2" transform="translate(95.000000, 160.000000)">
+                <g id="Group-4">
+                    <use id="Rectangle" mask="url(#mask-2)" stroke-width="10" xlink:href="#path-1"></use>
+                    <use id="Rectangle-4" mask="url(#mask-4)" stroke-width="10" xlink:href="#path-3"></use>
+                    <use id="Rectangle-4" mask="url(#mask-6)" stroke-width="10" fill="#FFFFFF" xlink:href="#path-5"></use>
+                    <use id="Rectangle-3" mask="url(#mask-8)" stroke-width="10" xlink:href="#path-7"></use>
+                    <use id="Rectangle-3" mask="url(#mask-10)" stroke-width="10" xlink:href="#path-9"></use>
+                    <polygon id="Path-14" stroke-width="5" points="159.9627 248.170344 172.186846 144.136158 185.6248 131.504579 217.773339 131.504579 230.609811 144.258623 242.599625 248.170344 221.593311 231.12884 181.436045 231.12884"></polygon>
+                    <polyline id="Path-15" stroke-width="5" points="235.175172 181.52808 254.549402 163.51392 276.88988 182.169845 283.995217 248.19625 262.016247 238.964258 243.719475 248.600149"></polyline>
+                    <polyline id="Path-15" stroke-width="5" transform="translate(143.410022, 206.543115) scale(-1, 1) translate(-143.410022, -206.543115) " points="119 182.01416 138.37423 164 160.714708 182.655924 167.820045 248.68233 145.841074 239.450338 127.544303 249.086229"></polyline>
+                    <g id="Group-3" transform="translate(272.000000, 60.000000)" stroke-width="5">
+                        <polyline id="Path-16" points="6.6218395 28.9975112 6.6218395 7.00297317 0.0520683219 0.326952321"></polyline>
+                        <path d="M6.73076923,7.38679245 L13.0677089,0.947368555" id="Line" stroke-linecap="square"></path>
+                    </g>
+                    <path d="M4.5,88.5 L418.5,88.5" id="Line" stroke-width="5" stroke-linecap="square"></path>
+                    <g id="Group" transform="translate(66.500000, 63.500000) rotate(-7.000000) translate(-66.500000, -63.500000) translate(54.000000, 37.000000)" stroke-width="5">
+                        <polyline id="Path-16" points="12.2010036 52.397918 12.2010036 12.2010036 -1.70530257e-13 0"></polyline>
+                        <path d="M12.5,13.5 L24.2686023,1.7313977" id="Line" stroke-linecap="square"></path>
+                    </g>
+                    <use id="Rectangle-2" mask="url(#mask-12)" stroke-width="10" xlink:href="#path-11"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

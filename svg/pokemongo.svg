@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600px" height="600px" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>pokemongo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="214" height="322"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="214" height="322" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="23" y="49" width="171" height="221"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="171" height="221" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pokemongo" stroke="#000000">
+            <g id="Group" transform="translate(202.000000, 138.000000)">
+                <circle id="Oval-2" stroke-width="5" cx="110.5" cy="293.5" r="12.5"></circle>
+                <path d="M115.5,245.5 L125.5,245.5" id="Line" stroke-width="3" stroke-linecap="square"></path>
+                <path d="M98.5,245.5 L104.5,245.5" id="Line" stroke-width="3" stroke-linecap="square"></path>
+                <path d="M95.5,27.5 L116.5,27.5" id="Line" stroke-width="5" stroke-linecap="square"></path>
+                <use id="Rectangle" mask="url(#mask-2)" stroke-width="10" xlink:href="#path-1"></use>
+                <use id="Rectangle-5" mask="url(#mask-4)" stroke-width="10" xlink:href="#path-3"></use>
+                <path d="M59.7294498,153.54751 L57.2962366,167.038642 C57.2962366,167.038642 62.2296659,167.033746 65.0899841,167.036194 C67.9503022,167.038642 73.4469838,165.994131 73.4469838,165.994131 L68.8813054,151.549662 L61.3056996,145.266386 L59.7294498,153.54751 Z" id="Path-26" stroke-width="5"></path>
+                <path d="M24.9320034,177.423048 C24.9320034,177.423048 31.6780277,168.085227 38.3086568,168.085227 C44.9392859,168.085227 47.2175754,169.497542 51.7353489,169.497542 C56.2531224,169.497542 58.3588297,165.505685 58.3588297,165.505685" id="Path-22" stroke-width="5"></path>
+                <path d="M162.411608,154.848477 C162.411608,154.848477 171.957754,157.629196 175.355275,160.914385 C178.752795,164.199574 180.562356,168.307848 184.626718,168.307848 C188.69108,168.307848 190.929543,168.643821 190.929543,168.643821" id="Path-23" stroke-width="5"></path>
+                <path d="M72.3247434,163.380276 C72.3247434,163.380276 74.8762852,168.777834 82.2080003,168.777834 C89.5397153,168.777834 95.7440586,163.380276 108.026637,163.380276 C120.309216,163.380276 132.828057,167.17338 140.108873,163.817854 C147.38969,160.462327 149.351955,154.921948 149.351955,154.921948" id="Path-24" stroke-width="5"></path>
+                <circle id="Oval-3" stroke-width="5" cx="110" cy="244" r="15"></circle>
+                <circle id="Oval" stroke-width="3" cx="110" cy="244" r="5"></circle>
+                <path d="M151.280174,142.281124 L149.351955,155.772256 C149.351955,155.772256 153.261491,155.767361 155.528174,155.769808 C157.794857,155.772256 162.150747,154.727746 162.150747,154.727746 L159.370597,103.424256 L152.529287,134 L151.280174,142.281124 Z" id="Path-26" stroke-width="5"></path>
+                <polyline id="Path-25" stroke-width="5" points="68.9542176 150.339961 77.5311318 108.50453 94.2085466 78.5867885 104.684498 163.269296"></polyline>
+                <polyline id="Path-27" stroke-width="5" points="102.154654 138.15098 132.609831 154.549016 135.802831 165.383013"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
